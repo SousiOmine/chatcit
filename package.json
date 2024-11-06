@@ -1,0 +1,25 @@
+{
+  "name": "chatcit",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SousiOmine/chatcit.git"
+  },
+  "author": "SousiOmine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SousiOmine/chatcit/issues"
+  },
+  "homepage": "https://github.com/SousiOmine/chatcit#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "node-llama-cpp": "^3.2.0"
+  }
+}
